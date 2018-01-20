@@ -7,5 +7,5 @@
 	"password": "your_password",
 	"path": "/",
 
- Index page  https://github.com/NoxArt/SublimeText2-FTPSync>
+ Index page  https://github.com/NoxArt/SublimeText2-FTPSync <br>
  For settings description see: https://github.com/NoxArt/SublimeText2-FTPSync/wiki/All-settings
