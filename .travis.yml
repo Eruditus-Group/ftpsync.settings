@@ -1,8 +1,4 @@
 language: php
-rvm:
- - 2.2
- - jruby
- - rbx-3
  
- sudo: enabled
+sudo: enabled
 
