@@ -1,4 +1,5 @@
 
+[![Build Status](https://travis-ci.org/Eruditus-Group/ftpsync.settings.svg?branch=master)](https://travis-ci.org/Eruditus-Group/ftpsync.settings)
 
 # ftpsync.settings
 # Yellow Blog Extensions - Sublime Text 3 - FTP Protocol
