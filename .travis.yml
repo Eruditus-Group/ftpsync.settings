@@ -1,11 +1,2 @@
 
 language: php
-rvm:
- - 2.2
- - jruby
- - rbx-3
- 
- 
-script:
-  - make xref
-  - make ct-fast
